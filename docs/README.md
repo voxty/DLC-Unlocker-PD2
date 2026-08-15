@@ -16,12 +16,9 @@
 
 Attention, **SOME** weapons and weapon modifications are allowed, but most of them give you CHEATER TAG. If you want to enter a public lobby, make sure you avoid using weapons, weapon modifications, masks and weapons colors that are DLC - otherwise, you will be automatically kicked from the game.
 
-If you dont want to get cheater tag, get the safe version of dlc unlocker here
-[Safe DLC Unlocker](https://github.com/pd2-stuff/DLC-Unlocker-PD2/tree/safe-unlock)
-
 ## Installation
 You need SuperBLT for the mod to work. [Download it here.](https://superblt.znix.xyz)  
-Download the DLC Unlocker [here!](https://codeload.github.com/pd2-stuff/DLC-Unlocker-PD2/zip/refs/heads/master)  
+Download the DLC Unlocker [here!](https://codeload.github.com/voxty/DLC-Unlocker-PD2/zip/refs/heads/master)  
 
 To find the game folder you can do the following:
 
