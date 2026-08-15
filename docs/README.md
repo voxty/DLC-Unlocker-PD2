@@ -4,6 +4,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Payday2-logo.png">
 </p>
 
+## MOSTLY TESTED WITH WEAPONS / WEAPON BUILDS HEIST HOSTING FOR SURE GIVES CHEATER TAG OTHERWISE EVERYTHING ELSE IS SPOOFED
+
 ## ⚠️Warning⚠️
 
 ⚠️If you want to unlock all DLCs, only drag the unlock_all_dlcs folder into the mods folder  
