@@ -1,0 +1,18 @@
+{
+    "name": "Downloadable Content",
+    "description": "All Downloadable Content",
+    "author": "tsk.xz",
+    "contact": "@tsk.xz",
+    "version": "v1.1.0",
+
+    "hooks": [
+        {
+            "hook_id": "lib/managers/dlcmanager",
+            "script_path": "dlc-unlocker.lua"
+        },
+        {
+            "hook_id": "lib/network/base/networkpeer",
+            "script_path": "networkpeer-patch.lua"
+        }
+    ]
+}
